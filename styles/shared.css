@@ -29,7 +29,10 @@ a:hover {
 
 ul {
     list-style: square;
-}
+    background-color: rgb(160, 110, 143);
+    border-radius: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
 
 li {
     text-align: left;
