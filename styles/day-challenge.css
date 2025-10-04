@@ -1,0 +1,11 @@
+#todays-challenge {
+  font-weight: bold;
+  color: rgb(143, 11, 81);
+  font-size: 52px;
+}
+
+#trophy {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
