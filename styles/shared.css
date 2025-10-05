@@ -55,3 +55,8 @@ ul li {
 .highlight {
   background-color: rgb(117, 80, 105);
 }
+
+.highlight p {
+  font-weight: bold;
+  color: rgb(49, 27, 63);
+}
