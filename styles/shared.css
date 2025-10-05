@@ -1,40 +1,57 @@
 body {
-    text-align: center;
-    background-color: rgb(192, 143, 197);
-    margin: 150px;
+  text-align: center;
+  background-color: rgb(141, 119, 143);
+  margin: 150px;
 }
 
 h1 {
-    font-family: "Pacifico", cursive, sans-serif;
-    font-size: 50xp;
-    font-weight: bold;
-    color: black;
+  font-family: "Pacifico", cursive, sans-serif;
+  font-size: 50xp;
+  font-weight: bold;
+  color: black;
 }
 
 p {
-    font-family: "Funnel Display", sans-serif;
-    font-size: 18px;
-    color: rgb(51, 50, 51);
+  font-family: "Funnel Display", sans-serif;
+  font-size: 18px;
+  color: rgb(51, 50, 51);
 }
 
 a {
-    color: rgb(143, 11, 41);
-    text-decoration: none;
+  color: rgb(143, 11, 41);
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
-    color: rgb(124, 83, 129);
+  text-decoration: underline;
+  color: rgb(124, 83, 129);
 }
 
 ul {
-    list-style: square;
-    background-color: rgb(160, 110, 143);
-    border-radius: 50px;
-    margin-left: 400px;
-    margin-right: 400px;
+  list-style: none;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding: 20px;
+}
 
-li {
-    text-align: left;
-    margin-left: 200px;
+.title-image {
+  border-radius: 50px;
+}
+
+h2 {
+  font-family: "Funnel Display", sans-serif;
+  font-size: 36px;
+}
+
+ul li {
+  background-color: rgb(160, 110, 143);
+  border: 2px solid black;
+  border-radius: 50px;
+  margin-bottom: 16px;
+  text-align: left;
+  padding: 25px;
+}
+
+.highlight {
+  background-color: rgb(117, 80, 105);
 }
