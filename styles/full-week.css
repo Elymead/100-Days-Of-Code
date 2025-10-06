@@ -1,7 +1,9 @@
 #heading {
-    font-weight: bold;
-    text-decoration: underline;
-    font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 24px;
+  margin: 2px;
+  padding-top: 10px;
 }
 
 #footer1 {
@@ -11,16 +13,16 @@
 }
 
 header a {
-    background-color: rgb(160, 110, 143);
-    color: black;
-    font-size: 24px;
-    padding: 16px;
-    border: 2px black solid;
-    border-radius: 50px;
+  background-color: rgb(160, 110, 143);
+  color: black;
+  font-size: 24px;
+  padding: 16px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
 }
 
 header a:hover {
-    background-color: rgb(117, 80, 105);
-    text-decoration: none;
-    color: white;
+  background-color: rgb(117, 80, 105);
+  text-decoration: none;
+  color: white;
 }
